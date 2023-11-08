@@ -12,7 +12,7 @@
 1. LTS version of Node.js
 2. VSCode
 
-## Local development Setup
+## Local development setup
 
 1. npm install
 2. npm run dev
